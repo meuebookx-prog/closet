@@ -1,0 +1,5 @@
+{
+  "name": "Closet Inteligente",
+  "description": "Sua consultora de estilo digital personalizada para transformar seu guarda-roupa e elevar sua autoestima.",
+  "requestFramePermissions": ["camera"]
+}
